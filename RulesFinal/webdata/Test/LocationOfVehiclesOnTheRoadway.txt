@@ -1,0 +1,18 @@
+On two-way roads with four lanes or more, it is forbidden...
+to exit on the side of the road intended for oncoming traffic.
+to stay on the side of the road intended for oncoming traffic.
+to stop or continue on the side of the road intended for oncoming traffic.
+LocationOfCar.jpg
+to exit on the side of the road intended for oncoming traffic.
+Vehicles whose speed does not exceed ... km / h or which, for technical reasons, do not reach such speed, move in the extreme right lane intended for driving this vehicle in the desired direction, except in cases of detour, overtaking, changing the line before turning left, turn or stop (parking) in permitted cases on the left side of the road.
+40
+50
+60
+LocationOfCar.jpg
+40
+When turning on the road with reverse movement, the driver drives the vehicle so that when leaving the intersection of the carriageways, the vehicle takes the ... . Changing line is allowed only after the driver is satisfied that driving in this direction is allowed in ...
+right lane ; other lanes
+left lane ; extreme left lanes
+right lane ; right lanes
+LocationOfCar.jpg
+right lane ; other lanes

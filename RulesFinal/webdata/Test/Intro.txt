@@ -1,0 +1,25 @@
+When driving on a road from a secondary road...
+the driver gives way to vehicles and pedestrians moving along it.
+the driver keeps driving.
+the driver gives way to vehicles but not to pedestrians moving along it.
+Intro.png
+the driver gives way to vehicles and pedestrians moving along it.
+When changing the line...
+the driver gives way to vehicles moving along the way without changing the direction of movement.
+the driver does not allowed to give way to vehicles moving along the way.
+the driver cannot change the line
+ChangeTheLine.jpg
+the driver gives way to vehicles moving along the way without changing the direction of movement.
+When approaching a stopping or parking place...
+the driver gives way to pedestrians moving along the edge of the carriageway or the roadside, drivers of bicycles, mopeds, horse-drawn carts, drivers of riding and pack animals.
+the driver gives way to pedestrians moving along the edge
+the driver should not give way to pedestrians moving along the edge of the carriageway or the roadside, drivers of bicycles, mopeds, horse-drawn carts, drivers of riding and pack animals.
+Parking.jpg
+the driver gives way to pedestrians moving along the edge of the carriageway or the roadside, drivers of bicycles, mopeds, horse-drawn carts, drivers of riding and pack animals.
+In cases where the trajectories of vehicles intersect, and the sequence of travel is not determined by these Rules...
+the driver gives way to which the vehicle approaches on the right.
+the driver gives way to which the vehicle approaches on the left.
+the driver should not gives way to which the vehicle approaches on the right.
+FromRight.jpg
+the driver gives way to which the vehicle approaches on the right.
+Overtake

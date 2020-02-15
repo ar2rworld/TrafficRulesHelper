@@ -1,0 +1,25 @@
+... the driver gives way to pedestrians crossing the carriageway in his direction of motion, which he turns to, to cyclists crossing it on a bicycle lane, and route vehicles.
+When turning right or left
+When turning right
+When turning left
+Intersection.png
+When turning right or left
+... or turning at the permissive signal of the traffic light, the driver of a trackless vehicle gives way to vehicles moving from the opposite direction directly or to the right, including entering the intersection.
+When turning left
+When turning right or left
+When turning right
+Intersection.png
+When turning left
+A driver who enters the intersection at a permissive traffic light...
+leaves in the intended direction regardless of the traffic lights at the exit from the intersection.
+stops in the intended direction regardless of the traffic lights at the exit from the intersection.
+goes back in the intended direction regardless of the traffic lights at the exit from the intersection.
+Intersection.png
+leaves in the intended direction regardless of the traffic lights at the exit from the intersection.
+At the intersection where traffic is regulated by a traffic light with an additional section, the driver, who is on the lane with which the turn is made, ...
+continues to move in the direction indicated by the included arrow.
+continues to move even against the direction indicated by the included arrow.
+stops to move in the direction indicated by the included arrow.
+Intersection.png
+continues to move in the direction indicated by the included arrow.
+LocationOfVehiclesOnTheRoadway
